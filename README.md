@@ -1,12 +1,8 @@
 This repository contains the work performed during an internship under the Mitacs Globalink Research Internship program. I worked with Prof Ishwar Singh (McMaster University) and a robotics startup, AXIBO on Vibration Suppression Control of Robotic Arms.
 
-***
-
 For a quick overview of the project, the presentation [**SLP Presentation.pdf**](https://github.com/saayuj/Vibration-Suppression-Control-of-Robotic-Arms/blob/main/SLP%20Presentation.pdf) can be viewed.
 
 The final report [**MITACS Project Documentation - Saayuj Deshpande.pdf**](https://github.com/saayuj/Vibration-Suppression-Control-of-Robotic-Arms/blob/main/MITACS%20Project%20Documentation%20-%20Saayuj%20Deshpande.pdf) can be used as a guideline for the sequential work done during this project. The report references various simulink (.slx) and python (.py) files which are uploaded in the respective sections.
-
-***
 
 The research papers studied were:
 - Xian Zhang, Tao Tao, Gedong Jiang, Xuesong Mei, and Chuang Zou, "**A Refined Dynamic Model of Harmonic Drive and Its Dynamic Response Analysis**"[link](https://www.researchgate.net/publication/342560913_A_Refined_Dynamic_Model_of_Harmonic_Drive_and_Its_Dynamic_Response_Analysis).
